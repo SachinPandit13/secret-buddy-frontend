@@ -1,0 +1,7 @@
+{
+  "name": "secret-buddy-frontend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
