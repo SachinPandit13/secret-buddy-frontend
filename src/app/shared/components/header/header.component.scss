@@ -1,0 +1,13 @@
+ion-header{
+    box-shadow: none;
+    ion-toolbar{
+        ion-button {
+            ion-img{
+            height: 30px;
+        }
+        }
+        ion-title{
+            font-family: var(--font-coda);
+        }
+    }
+}

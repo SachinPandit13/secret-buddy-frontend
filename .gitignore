@@ -34,6 +34,23 @@ log.txt
 npm-debug.log
 yarn-error.log
 
+# Android
+/android
+/android-debug.apk
+/android-release.apk
+/android-debug.unsigned.apk
+/android-debug-unsigned.apk
+/android-release.unsigned.apk
+/android-release-signed.apk
+# iOS
+/ios
+/ios-build
+/ios-deploy
+/ios-simulator
+/ios-device
+/ios-archive
+
+
 # IDEs and editors
 .idea/
 .project
